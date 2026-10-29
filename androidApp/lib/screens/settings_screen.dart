@@ -23,7 +23,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
     Navigator.of(context)
         .pushAndRemoveUntil(fadeRoute(homeForRole(role)), (_) => false);
   }
-
+//Not so important featuere is  herer
   Future<void> _showWelcome() async {
     await _prefs.clearRole();
     if (!mounted) return;
