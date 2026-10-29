@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1020147283079",
+    "project_id": "explore-arunachal",
+    "storage_bucket": "explore-arunachal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020147283079:android:f969d24a6326a7d1dcf422",
+        "android_client_info": {
+          "package_name": "com.explorearunachal.explore_arunachal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk0IH53rBJZbM29qCPFtacgAY-i9-aZE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
