@@ -30,6 +30,7 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
       _selected = role;
       _busy = true;
     });
+    //yes you are right
     // Let the selection animation play before moving on.
     await Future<void>.delayed(const Duration(milliseconds: 420));
     await AppPrefs.instance.setRole(role);
