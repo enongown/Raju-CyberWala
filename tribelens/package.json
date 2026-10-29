@@ -1,0 +1,13 @@
+{
+  "name": "tribelens",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Identify the tribe from a photo of traditional attire",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@tensorflow/tfjs-backend-cpu": "4.22.0",
+    "@tensorflow/tfjs-core": "4.22.0",
+    "@tensorflow/tfjs-layers": "4.22.0",
+    "sharp": "^0.33.5"
+  }
+}

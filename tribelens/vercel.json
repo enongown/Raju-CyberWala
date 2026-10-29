@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/predict.js": {
+      "includeFiles": "model/**",
+      "memory": 1024,
+      "maxDuration": 30
+    }
+  }
+}
